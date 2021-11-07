@@ -1,7 +1,7 @@
-StepMania
+CosmoMania
 =========
 
-StepMania is an advanced cross-platform rhythm game for home and arcade use.
+CosmoMania is a fork of [StepMania](https://github.com/stepmania/stepmania)
 
 Advanced cross-platform rhythm game for home and arcade use.
 
